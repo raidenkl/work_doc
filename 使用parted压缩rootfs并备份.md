@@ -1,6 +1,6 @@
 参考的文章是这个：https://doc.embedfire.com/linux/rk356x/build_and_deploy/zh/latest/building_image/backup_rootfs/backup_rootfs.html#
 
-下面说一下没有gparted的时候应该怎么备份。
+有图形化界面的话，直接参考上面的文档就可以了，下面说一下没有gparted的时候应该怎么备份。
 ## 压缩rootfs分区
 
 因为没有gparted，所以直接用命令压缩了
