@@ -142,9 +142,10 @@ sudo usermod -aG docker skyman            #将skyman用户加入docker组
 安装 Docker Compose
 
 因为我们已经安装了 docker-compose-plugin，所以 Docker 目前已经自带 docker compose 命令，基本上可以替代 docker-compose：
-
+```
 root@debian ~ # docker compose version
 Docker Compose version v2.27.1
+```
 如果某些镜像或命令不兼容，则我们还可以单独安装 Docker Compose。
 
 我们可以使用 Docker 官方发布的 Github 直接安装最新版本：
