@@ -1,13 +1,13 @@
-1、修改设备树fiq_debugger节点
+1、修改内核设备树fiq_debugger节点
 
 2、修改lubancat3588-sdk/rkbin/tools/ddrbin_param.txt
 
 uart baudrate=115200
 
-先查看lubancat3588-sdk/rkbin/RKBOOT/RK3588MINIALL.ini使用的.bin是哪个
+先查看lubancat3588-sdk/rkbin/RKBOOT/RK3588MINIALL.ini，path1使用的.bin是哪个
 
 输入 cd rkbin/tools
-输入./ddrbin_tool rk3588 ddrbin_param.txt ../bin/rk35/rk3588_ddr_lp4_1560MHz_lp5_2400MHz_v1.17.bin
+输入python ddrbin_tool.py rk3588 ddrbin_param.txt ../bin/rk35/rk3588_xxx.bin
 
 输出
 version v1.19 20240117
@@ -18,3 +18,4 @@ new bin config:
 uart baudrate: 115200
 modify end
 
+3.烧录的时候选择新编译出来的bin
