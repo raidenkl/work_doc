@@ -82,7 +82,7 @@ export TORCH_FORCE_NO_WEIGHTS_ONLY_LOAD=1
 # 列出创建的虚拟环境
 conda info --envs
 
-# 激活环境，我这边是toolkit2_1.6
+# 激活环境，我这边是toolkit2_1.6,虽然名字是1.6，但是实际安装的版本是3.2
 conda activate toolkit2_1.6
 
 (toolkit2_1.6) dev@localhost
