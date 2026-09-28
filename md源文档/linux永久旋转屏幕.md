@@ -10,7 +10,7 @@ DSI-1:mipi屏
 HDMI-1：HDMI屏
 ```
 结果如下
-![屏幕](./photo/pingmu-0.png)
+![屏幕](../photo/pingmu-0.png)
 
 ### 1.2 触摸信息
 
@@ -18,7 +18,7 @@ HDMI-1：HDMI屏
 xinput list
 ```
 结果如下
-![触摸](./photo/pingmu-1.png)
+![触摸](../photo/pingmu-1.png)
 
 ### 1.3具体做法
 参考上面的信息，旋转屏幕就是下面三条命令，这里用向右旋转90度举例：
