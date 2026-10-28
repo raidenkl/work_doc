@@ -1,5 +1,6 @@
 ---
 title: 板卡安装 Qt5
+summary: debian12 / ubuntu22.04 上安装 Qt5 开发环境与 QtCreator
 board: [鲁班猫]
 os: [Debian 12, Ubuntu 22.04]
 tags: [Qt, 安装]

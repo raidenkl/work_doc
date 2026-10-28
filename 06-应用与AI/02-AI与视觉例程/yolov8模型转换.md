@@ -1,5 +1,6 @@
 ---
 title: yolov8 模型转换
+summary: 把 yolov8 转成 rknn 并在板卡上跑推理
 tags: [RKNN, 模型转换, yolov8]
 updated: 2026-08-12
 formats: [md]

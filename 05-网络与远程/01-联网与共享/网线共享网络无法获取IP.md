@@ -1,5 +1,6 @@
 ---
 title: 网线共享网络无法获取 IP
+summary: PC 把网络共享给板卡却拿不到地址，三个检查点与正确顺序
 board: [鲁班猫]
 tags: [网络, 共享, DHCP, 排障]
 updated: 2026-08-12

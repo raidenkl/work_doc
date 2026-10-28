@@ -1,5 +1,6 @@
 ---
 title: 板卡安装 docker-ce
+summary: ARM64 板卡装 docker-ce，先跑 check-config 确认内核支持
 board: [鲁班猫]
 tags: [docker, 容器, 安装]
 updated: 2026-08-12

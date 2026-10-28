@@ -1,5 +1,6 @@
 ---
 title: SPI 用 GPIO 模拟 CS 引脚
+summary: overlay 写法与片选时序，用普通 GPIO 顶替硬件 CS
 board: [鲁班猫]
 soc: RK3588
 tags: [SPI, 设备树, GPIO, overlay]

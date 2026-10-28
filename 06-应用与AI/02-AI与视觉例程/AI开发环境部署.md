@@ -1,5 +1,6 @@
 ---
 title: AI 开发环境部署
+summary: 在 x86 PC 上装 conda 与 rknn-toolkit2 的完整环境，不在板卡上做
 tags: [AI, conda, RKNN, 环境]
 updated: 2026-08-12
 formats: [md, pdf]

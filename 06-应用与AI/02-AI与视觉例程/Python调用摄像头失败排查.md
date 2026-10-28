@@ -1,5 +1,6 @@
 ---
 title: Python 调用摄像头失败排查
+summary: guvcview 能预览但 cv2.VideoCapture 打不开，换 opencv 安装方式解决
 board: [鲁班猫]
 tags: [摄像头, OpenCV, Python, 排障]
 updated: 2026-08-12

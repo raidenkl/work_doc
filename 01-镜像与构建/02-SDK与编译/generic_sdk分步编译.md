@@ -1,5 +1,6 @@
 ---
 title: generic_sdk 分步编译
+summary: SDK 各阶段单独编译的流程，以及切换主芯片前如何清理
 board: [鲁班猫]
 tags: [SDK, 编译, 镜像]
 updated: 2026-08-12

@@ -1,5 +1,6 @@
 ---
 title: rootfs 内核模块来源分析
+summary: 追查 rootfs 里的 /lib/modules 到底是钩子装进去的还是 deb 装进去的
 board: [鲁班猫]
 soc: RK3576
 kernel: "6.1"

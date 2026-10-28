@@ -1,5 +1,6 @@
 ---
 title: 鲁班猫3-安装 lxde 解决触摸不灵敏
+summary: 换轻量桌面改善触摸响应，代价是 VNC 不可用、观感一般
 board: [鲁班猫3]
 os: Ubuntu 22.04
 tags: [桌面, lxde, 触摸]

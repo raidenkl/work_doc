@@ -1,5 +1,6 @@
 ---
 title: toolkit_lite2-resnet18 例程修复
+summary: 官方 resnet18 例程在猫3 上跑不通的修法，附测试脚本
 board: [鲁班猫3]
 os: Ubuntu 22.04
 tags: [RKNN, 例程, resnet18]

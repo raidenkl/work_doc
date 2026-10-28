@@ -1,5 +1,6 @@
 ---
 title: Ubuntu 键鼠共享
+summary: deskflow 跨机键鼠共享，PC 做服务端、板卡做客户端
 os: Ubuntu
 tags: [桌面, 键鼠共享, deskflow]
 updated: 2026-08-12

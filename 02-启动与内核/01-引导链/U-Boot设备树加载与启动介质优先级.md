@@ -1,5 +1,6 @@
 ---
 title: U-Boot 设备树加载与启动介质优先级
+summary: 源码级分析 U-Boot 两级设备树怎么加载，以及怎么改启动介质顺序
 board: [鲁班猫]
 soc: RK3576
 tags: [U-Boot, 设备树, 启动]

@@ -1,5 +1,6 @@
 ---
 title: 编译内存不足-开启 swap
+summary: 编译时 cc1plus 被 OOM 杀掉的解法，用 swap 分区顶住内存峰值
 tags: [编译, swap, 内存, 排障]
 updated: 2026-01-14
 formats: [md, pdf]

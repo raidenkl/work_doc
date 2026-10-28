@@ -1,5 +1,6 @@
 ---
 title: U-Boot 通过 TFTP 引导内核与 NFS 根文件系统
+summary: 从零跑通网络启动的全流程，每节都写了怎么判断这一步过了，附 tftpboot.zip
 board: [鲁班猫4]
 soc: RK3588S
 kernel: "6.1"
@@ -85,6 +86,8 @@ CONFIG_EMBED_KERNEL_DTB_ALWAYS=y
 CONFIG_SPL_FIT_IMAGE_KB=3072
 CONFIG_SPL_FIT_IMAGE_MULTIPLE=1
 ```
+
+然后执行`./make.sh rk3588-tftp`就可以编译出miniloader.bin文件和uboot.img。
 
 
 ### 2.2 内核配置要核对四项

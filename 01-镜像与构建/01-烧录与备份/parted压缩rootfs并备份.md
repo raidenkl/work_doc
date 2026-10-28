@@ -1,5 +1,6 @@
 ---
 title: parted 压缩 rootfs 并备份
+summary: 没有 gparted 时用命令缩小分区，再备份最小根文件系统
 board: [鲁班猫]
 tags: [镜像, 备份, 分区]
 updated: 2026-08-12

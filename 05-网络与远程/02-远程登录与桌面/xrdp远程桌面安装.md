@@ -1,5 +1,6 @@
 ---
 title: xrdp 远程桌面安装
+summary: Kali + XFCE 下的 xrdp 安装，只在板卡侧手工执行、不写进镜像
 board: [鲁班猫5]
 soc: RK3588
 os: Kali Linux

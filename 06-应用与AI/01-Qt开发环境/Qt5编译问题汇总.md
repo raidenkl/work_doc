@@ -1,5 +1,6 @@
 ---
 title: Qt5 编译问题汇总
+summary: sysroot 软链接错乱、依赖缺失等交叉编译报错的修复
 board: [鲁班猫]
 arch: ARM64
 tags: [Qt, 交叉编译, 排障, sysroot]

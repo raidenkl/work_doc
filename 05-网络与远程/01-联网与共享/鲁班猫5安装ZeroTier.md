@@ -1,5 +1,6 @@
 ---
 title: 鲁班猫5安装 ZeroTier
+summary: 内网穿透远程访问板卡，含新版源码编译失败的处理
 board: [鲁班猫5]
 tags: [网络, ZeroTier, 内网穿透]
 updated: 2026-08-12

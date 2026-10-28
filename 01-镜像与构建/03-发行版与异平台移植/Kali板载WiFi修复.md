@@ -1,5 +1,6 @@
 ---
 title: Kali 板载 WiFi 修复
+summary: Kali rootfs 下 RTL8822CE 不出网卡时的诊断与驱动适配
 board: [鲁班猫]
 soc: RK3588
 kernel: 6.1.99

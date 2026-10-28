@@ -1,5 +1,6 @@
 ---
 title: MIPI 三摄硬编码推流
+summary: 三路 MIPI 摄像头走 GStreamer 硬编码 TCP 推流，Windows VLC 验证通过
 board: [鲁班猫4]
 soc: RK3588S
 kernel: 6.1.99

@@ -1,5 +1,6 @@
 ---
 title: GNOME 桌面自启动服务
+summary: 用 gnome-session-properties 添加开机自启，以 x11vnc 为例
 os: Ubuntu
 tags: [桌面, 自启动, VNC]
 updated: 2026-08-12

@@ -1,5 +1,6 @@
 ---
 title: 鲁班猫 × Lakka 移植实录
+summary: 把 Lakka 移植到鲁班猫的完整过程，含出图、改设备树与故障索引
 board: [鲁班猫]
 os: Lakka
 tags: [发行版, 移植, LibreELEC]

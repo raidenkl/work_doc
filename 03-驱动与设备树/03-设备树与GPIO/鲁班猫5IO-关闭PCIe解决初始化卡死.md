@@ -1,5 +1,6 @@
 ---
 title: 鲁班猫5IO-关闭 PCIe 解决初始化卡死
+summary: 底板不用 PCIe 时要注释掉节点而不只是 disabled，否则进不了系统
 board: [鲁班猫5IO]
 soc: RK3588
 os: Ubuntu 22.04

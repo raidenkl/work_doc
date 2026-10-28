@@ -1,5 +1,6 @@
 ---
 title: imx415 4K60fps 驱动移植
+summary: 改设备树与驱动支持 4K60fps，含 Kconfig/Makefile 改动与 iqfile 命名规则
 board: [鲁班猫4]
 soc: RK3588S
 kernel: 5.10.160

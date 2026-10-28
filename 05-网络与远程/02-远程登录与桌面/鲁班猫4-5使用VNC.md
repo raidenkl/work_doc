@@ -1,5 +1,6 @@
 ---
 title: 鲁班猫4-5 使用 VNC
+summary: 22.04 镜像先关 Wayland 改 x11，再配 VNC 与开机自启
 board: [鲁班猫4, 鲁班猫5]
 os: Ubuntu 22.04
 tags: [VNC, 远程桌面, x11]

@@ -1,5 +1,6 @@
 ---
 title: 编译内核模块报错 Exec format error
+summary: 板卡上编译内核模块报格式错误的成因判定与修复
 board: [鲁班猫]
 kernel: 6.1.75
 os: Ubuntu 22.04

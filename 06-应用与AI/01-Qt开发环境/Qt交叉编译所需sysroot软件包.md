@@ -1,5 +1,6 @@
 ---
 title: Qt 交叉编译所需 sysroot 软件包
+summary: 板卡侧要先补装的开发包清单，供 rsync 出 sysroot 用
 board: [鲁班猫]
 arch: ARM64
 tags: [Qt, sysroot, 交叉编译]
