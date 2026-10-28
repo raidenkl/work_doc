@@ -1,3 +1,14 @@
+---
+title: Kali 板载 WiFi 修复
+board: [鲁班猫]
+soc: RK3588
+kernel: 6.1.99
+os: Kali Linux
+tags: [WiFi, 驱动, 发行版, RTL8822CE]
+updated: 2026-08-12
+formats: [md]
+---
+
 # RK3588 LubanCat 板载 WiFi 修复指南
 
 > 适用环境：Kali Linux rootfs + LubanCat 系列 RK3588 开发板

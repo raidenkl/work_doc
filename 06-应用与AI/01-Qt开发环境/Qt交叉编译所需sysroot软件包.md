@@ -1,3 +1,12 @@
+---
+title: Qt 交叉编译所需 sysroot 软件包
+board: [鲁班猫]
+arch: ARM64
+tags: [Qt, sysroot, 交叉编译]
+updated: 2026-06-11
+formats: [md]
+---
+
 # Qt 5.15.17 交叉编译 — 板卡需安装的软件包
 
 本文档记录了为编译 Qt 5.15.17 在 LubanCat ARM64 目标板上额外安装的开发包。

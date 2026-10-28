@@ -1,3 +1,13 @@
+---
+title: 编译内核模块报错 Exec format error
+board: [鲁班猫]
+kernel: 6.1.75
+os: Ubuntu 22.04
+tags: [内核模块, 编译, 排障]
+updated: 2026-08-12
+formats: [md]
+---
+
 在尝试在板卡上编译内核模块时出现报错信息：
 ```
 make -C /lib/modules/6.1.75/build M=/home/cat/Workspace/modules/hello modules

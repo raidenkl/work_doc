@@ -1,3 +1,13 @@
+---
+title: MIPI 三摄硬编码推流
+board: [鲁班猫4]
+soc: RK3588S
+kernel: 6.1.99
+tags: [摄像头, 推流, GStreamer, MPP]
+updated: 2026-08-12
+formats: [md]
+---
+
 # LubanCat-4 (RK3588S) 三路 MIPI 摄像头 TCP 硬编码推流指南
 
 > 板卡：LubanCat-4（RK3588S）· 内核 6.1.99-rk3588 · GStreamer 1.22.9

@@ -1,3 +1,13 @@
+---
+title: xrdp 远程桌面安装
+board: [鲁班猫5]
+soc: RK3588
+os: Kali Linux
+tags: [远程桌面, xrdp, XFCE]
+updated: 2026-09-28
+formats: [md]
+---
+
 # xrdp 远程桌面安装方法（板卡侧手工，不固化进镜像）
 
 > 适用：LubanCat-5（RK3588）上烧录本仓库构建的 Kali rootfs 镜像

@@ -1,3 +1,10 @@
+---
+title: 编译内存不足-开启 swap
+tags: [编译, swap, 内存, 排障]
+updated: 2026-01-14
+formats: [md, pdf]
+---
+
 在make编译时，出现C++： fatal error:已杀死 signal terminated program cc1plus
 
 出现上述问题，可以考虑是虚拟机内存不足，可以采用swap分区的方式解决。

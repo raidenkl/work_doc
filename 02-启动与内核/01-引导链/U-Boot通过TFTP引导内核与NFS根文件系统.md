@@ -1,3 +1,14 @@
+---
+title: U-Boot 通过 TFTP 引导内核与 NFS 根文件系统
+board: [鲁班猫4]
+soc: RK3588S
+kernel: "6.1"
+os: buildroot
+tags: [U-Boot, TFTP, NFS, 启动]
+updated: 2026-10-28
+formats: [md]
+---
+
 # U-Boot 通过 TFTP 引导内核、NFS 挂载根文件系统
 
 一份从零到跑通的实操记录，基于 RK3588S（鲁班猫 4 V1）+ Rockchip next-dev U-Boot + 内核 6.1 + buildroot 根文件系统。

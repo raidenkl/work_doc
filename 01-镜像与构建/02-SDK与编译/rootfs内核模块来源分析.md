@@ -1,3 +1,14 @@
+---
+title: rootfs 内核模块来源分析
+board: [鲁班猫]
+soc: RK3576
+kernel: "6.1"
+os: Ubuntu 22.04
+tags: [构建, 内核模块, rootfs, SDK]
+updated: 2026-09-28
+formats: [md]
+---
+
 # LubanCat SDK rootfs 中 `/lib/modules` 的来源分析
 
 > 分析对象：本仓库（LubanCat_SDK，RK3576 / Ubuntu 22.04 / kernel 6.1）

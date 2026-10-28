@@ -1,3 +1,10 @@
+---
+title: yolov8 模型转换
+tags: [RKNN, 模型转换, yolov8]
+updated: 2026-08-12
+formats: [md]
+---
+
 ## 0.前置准备
 参考[ai文档](https://doc.embedfire.com/linux/rk356x/Ai/zh/latest/lubancat_ai/env/env.html)配置好环境，需要有conda和rknntoolkit2。
 以下操作，全部在x86_64的电脑下执行，不在板卡执行。

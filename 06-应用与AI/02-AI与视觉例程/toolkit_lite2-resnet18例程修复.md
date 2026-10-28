@@ -1,3 +1,12 @@
+---
+title: toolkit_lite2-resnet18 例程修复
+board: [鲁班猫3]
+os: Ubuntu 22.04
+tags: [RKNN, 例程, resnet18]
+updated: 2026-08-12
+formats: [md]
+---
+
 ## 0.环境配置
 本次测试使用的环境是猫3，ubuntu22.04，20250721的镜像。
 ```

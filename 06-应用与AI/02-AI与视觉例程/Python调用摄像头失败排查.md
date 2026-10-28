@@ -1,3 +1,11 @@
+---
+title: Python 调用摄像头失败排查
+board: [鲁班猫]
+tags: [摄像头, OpenCV, Python, 排障]
+updated: 2026-08-12
+formats: [md, pdf]
+---
+
 ## 0.问题描述
 就算摄像头打开了，可以用guvcview正常预览，但是没办法用python的`cap = cv2.VideoCapture(11)`来调用摄像头，会提示
 ```

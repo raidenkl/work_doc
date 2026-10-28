@@ -1,3 +1,12 @@
+---
+title: U-Boot 设备树加载与启动介质优先级
+board: [鲁班猫]
+soc: RK3576
+tags: [U-Boot, 设备树, 启动]
+updated: 2026-09-28
+formats: [md]
+---
+
 # U-Boot 设备树加载机制分析与启动介质优先级修改指南
 
 > 基于 LubanCat RK3576 SDK（`u-boot/` 目录，Rockchip v2017 next 分支）源码级分析，所有结论均标注源码位置。

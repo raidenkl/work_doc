@@ -1,3 +1,12 @@
+---
+title: SPI 用 GPIO 模拟 CS 引脚
+board: [鲁班猫]
+soc: RK3588
+tags: [SPI, 设备树, GPIO, overlay]
+updated: 2026-08-12
+formats: [md, pdf]
+---
+
 ## 0.源设备树插件
 > rk3588-lubancat-spi0-m1-overlay.dts
 ```

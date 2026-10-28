@@ -1,3 +1,11 @@
+---
+title: 鲁班猫5安装 ZeroTier
+board: [鲁班猫5]
+tags: [网络, ZeroTier, 内网穿透]
+updated: 2026-08-12
+formats: [md, pdf]
+---
+
 ### 0.前置准备
 编译zerotier需要用到cargo，执行`sudo apt install cargo`安装就好，最方便。
 

@@ -1,3 +1,10 @@
+---
+title: AI 开发环境部署
+tags: [AI, conda, RKNN, 环境]
+updated: 2026-08-12
+formats: [md, pdf]
+---
+
 # 前置条件
 参考的文档在这里：https://doc.embedfire.com/linux/rk356x/Ai/zh/latest/lubancat_ai/env/env.html
 

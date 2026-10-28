@@ -1,3 +1,11 @@
+---
+title: parted 压缩 rootfs 并备份
+board: [鲁班猫]
+tags: [镜像, 备份, 分区]
+updated: 2026-08-12
+formats: [md]
+---
+
 参考的文章是这个：https://doc.embedfire.com/linux/rk356x/build_and_deploy/zh/latest/building_image/backup_rootfs/backup_rootfs.html#
 
 有图形化界面的话，直接参考上面的文档就可以了，下面说一下没有gparted的时候应该怎么备份。

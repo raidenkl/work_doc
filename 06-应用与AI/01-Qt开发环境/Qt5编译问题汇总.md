@@ -1,3 +1,12 @@
+---
+title: Qt5 编译问题汇总
+board: [鲁班猫]
+arch: ARM64
+tags: [Qt, 交叉编译, 排障, sysroot]
+updated: 2026-06-11
+formats: [md]
+---
+
 # Qt 5.15 交叉编译常见问题修复 (LubanCat ARM64)
 原文档参考：https://doc.embedfire.com/linux/rk356x/Qt/zh/latest/lubancat_qt/install/install_arm_2.html#
 

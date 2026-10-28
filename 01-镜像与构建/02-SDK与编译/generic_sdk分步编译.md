@@ -1,3 +1,11 @@
+---
+title: generic_sdk 分步编译
+board: [鲁班猫]
+tags: [SDK, 编译, 镜像]
+updated: 2026-08-12
+formats: [md]
+---
+
 [原文档](https://doc.embedfire.com/linux/rk356x/build_and_deploy/zh/latest/building_image/lubancat_sdk/lubancat_gen_sdk.html#id11)
 
 

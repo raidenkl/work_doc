@@ -1,3 +1,11 @@
+---
+title: Ubuntu 键鼠共享
+os: Ubuntu
+tags: [桌面, 键鼠共享, deskflow]
+updated: 2026-08-12
+formats: [md]
+---
+
 ## 0.测试环境
 pc是win10，做服务端，板卡是Ubuntu系统，做客户端。
 键鼠共享使用的方案是deskflow；pc端要去[github仓库](https://github.com/deskflow/deskflow)的release下载。

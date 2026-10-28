@@ -1,3 +1,12 @@
+---
+title: 鲁班猫4-5 使用 VNC
+board: [鲁班猫4, 鲁班猫5]
+os: Ubuntu 22.04
+tags: [VNC, 远程桌面, x11]
+updated: 2026-08-12
+formats: [md, pdf]
+---
+
 ## 0.配置
     因为22.04的镜像默认用的窗口系统是Wayland，需要先改成x11。
 `sudo vim /etc/gdm3/custom.conf`

@@ -1,3 +1,11 @@
+---
+title: GNOME 桌面自启动服务
+os: Ubuntu
+tags: [桌面, 自启动, VNC]
+updated: 2026-08-12
+formats: [md]
+---
+
 这个方法需要有桌面环境，所以这边用vnc的自启示例
 
 桌面环境输入alt+f2，然后输入`gnome-session-properties`

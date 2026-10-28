@@ -1,3 +1,12 @@
+---
+title: 板卡安装 Qt5
+board: [鲁班猫]
+os: [Debian 12, Ubuntu 22.04]
+tags: [Qt, 安装]
+updated: 2026-08-12
+formats: [md, pdf]
+---
+
 # debian12
 
 执行下面的命令：

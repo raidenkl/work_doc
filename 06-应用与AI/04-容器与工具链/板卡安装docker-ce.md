@@ -1,3 +1,11 @@
+---
+title: 板卡安装 docker-ce
+board: [鲁班猫]
+tags: [docker, 容器, 安装]
+updated: 2026-08-12
+formats: [md, pdf]
+---
+
 # 0.内核校验
 先确认内核是否支持docker，这里用一个脚本检验一下。
 脚本源地址：https://github.com/moby/moby/blob/master/contrib/check-config.sh

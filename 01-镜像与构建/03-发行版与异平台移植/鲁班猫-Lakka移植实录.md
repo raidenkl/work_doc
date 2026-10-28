@@ -1,3 +1,12 @@
+---
+title: 鲁班猫 × Lakka 移植实录
+board: [鲁班猫]
+os: Lakka
+tags: [发行版, 移植, LibreELEC]
+updated: 2026-10-27
+formats: [md]
+---
+
 # LubanCat × Lakka 移植实录
 
 这份文档记录的是把 Lakka（LibreELEC 的一个发行版）移植到野火鲁班猫系列板卡上，从零到四颗芯片可用、并上机验证的完整过程。写法按当时的实际操作顺序展开，每一步都写了目的、动了哪些文件、跑了什么命令，以及踩过的坑和判断依据。
