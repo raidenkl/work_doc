@@ -1,1 +1,4 @@
 *.docx
+~$*
+.workbuddy/
+_keep.md
