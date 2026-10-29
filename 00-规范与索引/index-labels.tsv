@@ -1,0 +1,8 @@
+﻿# 索引表格的表头与占位符文案（UTF-8 编码，key=value 格式）
+# 由 gen-index.ps1 读取；脚本本身保持纯 ASCII，中文只允许出现在这里。
+doc=文档
+desc=说明
+board=板卡
+format=格式
+updated=更新
+placeholder=—
